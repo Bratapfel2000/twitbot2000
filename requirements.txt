@@ -1,0 +1,5 @@
+bs4==0.0.1 
+tweepy==3.6.0 
+requests==2.19.1 
+schedule==0.5. 
+lxml==4.2.5 
