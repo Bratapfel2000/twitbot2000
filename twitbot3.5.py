@@ -24,7 +24,7 @@ drei = zwei[0]
 
 
 #creates a list of words (here german adjectives)
-a = ["gut", "schlecht", "voll gut", "ziemlich fuer den Arsch", "naja", "geht so", "spitzenklasse",
+a = ["gut", "schlecht", "voll gut", "naja", "geht so", "spitzenklasse",
      "erste Sahne", "zweite Sahne", "voll Zehlendorf", "unangenehm", "gar nicht mal so gut",
      "besser", "schlechter", "hipstermaessig"]
 #print(random.choice(a))    #this ist just to check the code
